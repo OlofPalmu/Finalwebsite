@@ -130,7 +130,7 @@ a:hover {
   }
   
   div.gallery:hover {
-    border: 1px solid #777;
+    border: 1.5px solid #777;
   }
   
   div.gallery img {
@@ -167,4 +167,8 @@ a:hover {
     content: "";
     display: table;
     clear: both;
+  }
+  @media only screen and (max-width: 800px) {
+    body {
+    }
   }
