@@ -168,7 +168,3 @@ a:hover {
     display: table;
     clear: both;
   }
-  @media only screen and (max-width: 800px) {
-    body {
-    }
-  }
