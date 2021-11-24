@@ -108,9 +108,7 @@ nav a {
     float: left;
     text-decoration: none;
 }
-a:hover {
-    background-color: red;
-}
+
 .topnav {
     overflow: hidden;
     background-color: #333;
