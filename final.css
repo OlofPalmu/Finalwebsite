@@ -4,6 +4,9 @@
 .container {
     
 }
+hr.viiva {
+  border-top: 4px solid burlywood;
+}
 h1 {
     color: white;
     height: 75px;
@@ -46,7 +49,13 @@ div.tiedot {
     color: blanchedalmond;
 }
 .p1 {
-    color: blanchedalmond;
+    font-size: 40px;
+}
+.uutiskirje {
+  font-size: 40px
+}
+input[type=checkbox] {
+  transform: scale(1.5);
 }
 .p {
     font-size: 60px;
