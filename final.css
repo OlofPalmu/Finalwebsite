@@ -127,6 +127,9 @@ nav a {
 .topnav {
     overflow: hidden;
     background-color: #333;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
   }
   
   .topnav a {
