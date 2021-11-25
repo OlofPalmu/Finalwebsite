@@ -24,22 +24,18 @@ div.vilu {
     padding: 5px;
     text-align: center;
 }
-div.h1 {
-  color: white;
+div.tiedot {
   margin: auto;
-  height: 800px;
+  height: 100%;
   width: 60%;
-  font-size: 100px;
-  font-family: brush script mt, cursive;
-  color: beige;
+  font-size: 50px;
   text-align: center;
-  -webkit-text-stroke: 2px black;
   background-color: blanchedalmond;
   opacity: 90%;
 }
 .h1 {
   color: white;
-  height: 75px;
+  height: 400px;
   font-size: 100px;
   font-family: brush script mt, cursive;
   color: beige;
@@ -81,6 +77,14 @@ body {
 img {
     height: 400px;
     max-width: 100%;
+}
+.kuva {
+  height: 400px;
+  width: 300px;
+}
+.igkuva {
+  height: 40px;
+  width: 40px;
 }
 
 header {
